@@ -9,12 +9,12 @@ __Changes__:
 - corrected error in o-score calculation
 - added end_date filter in macros saving daily and monthly returns 
 
-## 11-03-2024 [Factor data set]
+## 11-03-2024 
 __Changes__:
 - Added 2023 data
 - Updated the country classification according the latest MSCI market classification
 
-## 03-03-2023 [Factor data set]
+## 03-03-2023 
 __Changes__:
 - Added 2022 data
 - Added 'me' (market equity) and 'ret' (total return) and removed 'source_crsp' from daily return files
